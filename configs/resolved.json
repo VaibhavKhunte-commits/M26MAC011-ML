@@ -1,0 +1,42 @@
+{
+  "seed": 26011,
+  "seed_is_provisional": true,
+  "roll_number": "M26MAC011",
+  "student_name": "Vaibhav Khunte",
+  "repository_url": "https://github.com/VaibhavKhunte-commits/M26MAC011-ML02",
+  "n_jobs": 4,
+  "tree_depths": [
+    2,
+    4,
+    8,
+    16,
+    null
+  ],
+  "minimum_leaf_sizes": [
+    1,
+    2,
+    4
+  ],
+  "bagging_sizes": [
+    1,
+    5,
+    10,
+    25,
+    50,
+    100,
+    200
+  ],
+  "boosting_depths": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "boosting_rounds": [
+    10,
+    25,
+    50,
+    100
+  ],
+  "resamples": 30
+}
